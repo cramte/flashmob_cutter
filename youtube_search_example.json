@@ -1,0 +1,1650 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gtWx-mnjvoucUIXh5bsKuLtFuJ8\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "PL",
+ "pageInfo": {
+  "totalResults": 224,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/p0jjdMv59BONg_MXo23lAHGNjZg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oOlA7P_iuIQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T15:42:57.000Z",
+    "channelId": "UCbbAsVam91iXhrebuX7W0OQ",
+    "title": "International West Coast Swing Rally 2018 - Maldives #IRWCSSummerIsland #IRWCS",
+    "description": "International West Coast Swing Rally 2018 - Maldives # IRWCS. Wie schon seit einigen Jahren gab es auch heuer wieder eine Internationale West Coast Swing ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oOlA7P_iuIQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oOlA7P_iuIQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oOlA7P_iuIQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Peter Pfaffenbauer / SEOTest",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LGr36rIlq2rU7vgA2lFMEYHCQhw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ab6ro8hXw6I"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-09T17:26:18.000Z",
+    "channelId": "UCd0TRLQBIIRzgPco-EcNRcQ",
+    "title": "West Coast Swing 2018 International Rally 2018 - Rochester New York #IRWCS",
+    "description": "Victoria Di Ana Murphy & Brian Dinitto dancing for the 2018 International West Coast Swing Rally at Village Gate in Rochester, NY on 9/1/2018. #IRWCS Thank ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ab6ro8hXw6I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ab6ro8hXw6I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ab6ro8hXw6I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Amy D.",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MEz8PZKlOz62KkTg3Z9XNJKwujY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4qpDvRCnrpY"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T17:06:19.000Z",
+    "channelId": "UC-A-g97OuWFukJ-irRyosVA",
+    "title": "#IRWCSErfurt - Domstufen",
+    "description": "Internationale West-Coast-Swing-Rally in Erfurt! 01.09.2018 Mit freundlicher Unterstützung von Ingo B. für die Erlaubnis der Verbreitung.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4qpDvRCnrpY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4qpDvRCnrpY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4qpDvRCnrpY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tanzkonzept - Erfurt",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MrXUvw-XtmfmYQN_pIGeGtGiB4Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Z__SSG1cxqs"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-04T15:11:53.000Z",
+    "channelId": "UCaXk9RMzMe95VIFDajhbVZQ",
+    "title": "International Rally West Coast Swing 2018, Team Galicia (Spain), #IRWCSGalicia #IRWCS #IRWCS2018",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z__SSG1cxqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z__SSG1cxqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z__SSG1cxqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "francisco javier vidal lede",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/87NQRRrz8HX_sP00TgyxzcY9iaQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "S_4-qGOCfZY"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-04T15:32:33.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Swungover Saturday - September 1, 2018",
+    "description": "Swungover Saturday's last dance. Thank you Stevie Bliss and LIzza DeChant for hosting our annual Flashmob dance. #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S_4-qGOCfZY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S_4-qGOCfZY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S_4-qGOCfZY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ot6_t28M0RXq69P7mM0oqgI4cMA\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLFau2nFFDSkCm3IM2I08kJqWpWPh0jEVk"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-04T18:55:08.000Z",
+    "channelId": "UCydZnEIH1H2Dr8iYRyY5fAw",
+    "title": "IRWCS-2018",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Wilbur Klick",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/j9nhfijWanUunDeLFIP5Cq0mnt0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yQB3lLLF2Wo"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-07T13:17:25.000Z",
+    "channelId": "UCdwi91iZzr7s3d5iB-TQC8A",
+    "title": "#IRWCS  Long Beach CA International Rally WCS 2018-Unofficial",
+    "description": "This video is a second shot Sep 2 2018.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yQB3lLLF2Wo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yQB3lLLF2Wo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yQB3lLLF2Wo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Cal Espina",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CzPBxlng22GdxE_q_rCDnwEMlAI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FmmIHXqWtlg"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-11T15:39:31.000Z",
+    "channelId": "UCCbueC_g0EXjQ69j8Y70iMQ",
+    "title": "IRWCS 2018 Eberbach - Director's Cut Neuer Markt",
+    "description": "IRWCS #IRWCS2018 #WCSEberbach.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FmmIHXqWtlg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FmmIHXqWtlg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FmmIHXqWtlg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ingo Haschler",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yMUpnbteZ92Id8pPKSxSFq1VpWg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vieqfMCK9Hs"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-11T16:10:04.000Z",
+    "channelId": "UCCbueC_g0EXjQ69j8Y70iMQ",
+    "title": "IRWCS 2018 Eberbach - Director's Cut Lindenplatz",
+    "description": "IRWCS #IRWCS2018 #WCSEberbach.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vieqfMCK9Hs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vieqfMCK9Hs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vieqfMCK9Hs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ingo Haschler",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9YVrEG6ZIEqr4AR7tG8DPRQdeHk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GCga94jN2OQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-04T10:32:41.000Z",
+    "channelId": "UC6PKrmBGkFMlxQfYimT_A2g",
+    "title": "IRWCS 2018 Ekaterinburg, Russia",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GCga94jN2OQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GCga94jN2OQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GCga94jN2OQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Лариса Братковская",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7h3mAj-toNHMCC-NNEJEB8FfMe8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "evahaEefcd4"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-10T01:44:32.000Z",
+    "channelId": "UC1wenCNzlYKNVvcsdViWtUQ",
+    "title": "Honolulu International Flashmob West Coast Swing 2017 #IRWCS #WCSOAHU",
+    "description": "Luckywelivehawaii #Islandofoahu West Coast Swing Oahu's performance of the 2017 International WCS Flashmob. Filmed in 4K at Kaneohe Bay Sandbar ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/evahaEefcd4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/evahaEefcd4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/evahaEefcd4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "West Coast Swing Oahu",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uC4ibMcg_oAi15BGFr_N2XWvN-o\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ug01Zr0gS-4"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-09T18:18:24.000Z",
+    "channelId": "UCCF7BrtrDxamlop9NjIV0Cw",
+    "title": "BRATISLAVA (Slovakia) - International RALLY West Coast Swing 2018 #IRWCS #IRWCSBratislava",
+    "description": "International RALLY West Coast Swing 2018 (Flashmob) BRATISLAVA, Slovakia 1.9.2018 Organisation: Karin Štefanovičová Video and editing: Marek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ug01Zr0gS-4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ug01Zr0gS-4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ug01Zr0gS-4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "WCS Bratislava",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/d6mnKakg5-wQQIePAJvrfQl1Zt4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Esd4j1ZArTU"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-01T10:49:06.000Z",
+    "channelId": "UCCUVWbkSga7NDNUVxWWZBVQ",
+    "title": "IRWCS 2018 La Rochelle",
+    "description": "International Rally West Coast Swing 2018 : Flashmob à La Rochelle, France.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Esd4j1ZArTU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Esd4j1ZArTU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Esd4j1ZArTU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Westies La Rochelle Westies La Rochelle",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TT6IOLcs672HAXfjORreNFSgq1g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BoGSBJCu7QA"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-04T05:49:06.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Nordstrom at Easton Mall - September 1, 2018",
+    "description": "Performance Saturday evening at Norstrom. It was raining so bad, I thought we'd have to take a boat to get there! #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BoGSBJCu7QA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BoGSBJCu7QA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BoGSBJCu7QA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9VtqamGqWH0HMYqtokck6D-p9Mo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PBUVyn-bjbI"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-11T16:27:24.000Z",
+    "channelId": "UCCr9ZpOiXUFLEsWV9YyRGyw",
+    "title": "Jakub Jakoubek & Emeline Rochefeuille - WCS Improv - Boston",
+    "description": "West Coast Swing/Modern swing demo (Lead and Follow) by Jakub Jakoubek and Emeline Rochefeuille in Boston (Evening workshop, August 2018) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PBUVyn-bjbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PBUVyn-bjbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PBUVyn-bjbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Emeline Rochefeuille",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2VfnOfT7GIGhcuq-QwhLJ8kymjg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SbtLCWJ1llA"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-05T23:29:06.000Z",
+    "channelId": "UCE7wIhyJugTFyLB2g_pttsw",
+    "title": "IRWCSDallas WCS Rally 2018",
+    "description": "IRWCS DALLAS WCS Rally 2018 #IRWCS #IRWCSDALLAS #2155 #TheSandbox #WCSRALLY2018.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SbtLCWJ1llA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SbtLCWJ1llA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SbtLCWJ1llA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jack Harrell",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VOgUGQYPmmQJG76KKg20KQ0QFww\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "b34q63LUKqA"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T21:37:01.000Z",
+    "channelId": "UCCbueC_g0EXjQ69j8Y70iMQ",
+    "title": "IRWCS 2018 Eberbach",
+    "description": "International Rally West Coast Swing 2018 at Lindenplatz, Eberbach.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b34q63LUKqA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b34q63LUKqA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b34q63LUKqA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ingo Haschler",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nLzwE5Ik4MBBXj_FjltUY8LnRkQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "czaIJfFrAP8"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-01T16:42:19.000Z",
+    "channelId": "UCyij6wtUF1O8YAGQVkLsCZQ",
+    "title": "#IRWCSMiddlesbrough",
+    "description": "IRWCS Middlesbrough International Flashmob West Coast Swing 2018 Rally.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/czaIJfFrAP8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/czaIJfFrAP8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/czaIJfFrAP8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "wcs stockton",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hLAhFDhuskAjmPqsmwP4kGqf3dw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "m15A0sZ6y3M"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-14T20:44:40.000Z",
+    "channelId": "UCft2dI3UTerfae1ilxAImnQ",
+    "title": "International Rally West Coast Swing Bucharest 2018 #IRWCSBUCHAREST #IRWCS #IRWCS2018",
+    "description": "Thank you everyone for participating ! See you next year :)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m15A0sZ6y3M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m15A0sZ6y3M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m15A0sZ6y3M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Dance WCS Bucharest",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hda0Z40NdPm_A7LhY5l0AMb0lh4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cEG1K0H0WPs"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T17:28:49.000Z",
+    "channelId": "UCmzVrKB6Nt_d3wEgqsckeGQ",
+    "title": "#IRWCS YorktownVA International WCS Rally 2018 at Yorktown Victory Monument",
+    "description": "This video was taken for the International West Coast Swing Rally 2018 at the Yorktown Victory Monument. #IRWCS YorktownVA.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cEG1K0H0WPs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cEG1K0H0WPs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cEG1K0H0WPs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Cindy Norge",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SlYZzi61-qr7yUiSxcfYefoDidQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "b47-z3keyVA"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-01T17:33:17.000Z",
+    "channelId": "UCyij6wtUF1O8YAGQVkLsCZQ",
+    "title": "#IRWCSMiddlesbroughFountain",
+    "description": "IRWCS Middlesbrough Fountain International Flashmob West Coast Swing 2018 Rally.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b47-z3keyVA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b47-z3keyVA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b47-z3keyVA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "wcs stockton",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aMnEQdfhagVaA4flBPsBz12zHa8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7AKqbY_LSOY"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T21:58:10.000Z",
+    "channelId": "UC_yh9UnnljulEuQYrUUv0-A",
+    "title": "#IRWCS Los Angeles (Unofficial ) International Rally WCS",
+    "description": "International Rally West Coast Swing Unofficial ( amateur video iMovie on iPhone). Sept. 1, 2018 #IRWCS Los Angeles California Phil Adams and Mindia Robin ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7AKqbY_LSOY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7AKqbY_LSOY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7AKqbY_LSOY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LaLaLandDance",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/D6Un8brFgCUt8jQAlKHWBi31cTs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_-VaQnkkwBQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-10T01:04:45.000Z",
+    "channelId": "UCi0POrtU8bU1mO7SVlsMk4Q",
+    "title": "Rallye international wcs 2018 Sherbrooke #IRWCS #IRWCSSHERBROOKE",
+    "description": "Voici la vidéo du rallye international de West coast swing 2018 de Sherbrooke (Québec) Canada. Bon visionnement et félicitations aux danseuses et aux ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_-VaQnkkwBQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_-VaQnkkwBQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_-VaQnkkwBQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jenny Cadieux",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MZi1zPBFMvWsjf9Q3AbBJ269R80\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pwlJKa3dhGk"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-09T02:58:48.000Z",
+    "channelId": "UC1wenCNzlYKNVvcsdViWtUQ",
+    "title": "International Rally West Coast Swing Honolulu 2018 #IRWCSHONOLULU #WCSOAHU #IRWCS #IRWCS2018",
+    "description": "luckywelivehawaii Filmed in C4k on Saturday September 1, 2018 at 18th Tee of the magnificent Ko'olau Golf Center (Kaneohe, Oahu) and on the Hawaii Pirate ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pwlJKa3dhGk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pwlJKa3dhGk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pwlJKa3dhGk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "West Coast Swing Oahu",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kmD6dA35n1LJrwa3cR0etpJZB-s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "J03sj-vdO3M"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-05T09:31:21.000Z",
+    "channelId": "UCXVwZuEdNF7_kXlJfRqo-zQ",
+    "title": "MATÚŠ VALLO: BRATISLAVA POTREBUJE SPOLUPRÁCU",
+    "description": "Ak primátor bojuje s poslancami, nič sa neschváli a mesto bojuje tiež. A ak bude primátor Nesrovnal zvolený opäť, jeho konflikty budú pokračovať a v Bratislave ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J03sj-vdO3M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J03sj-vdO3M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J03sj-vdO3M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Matúš Vallo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5csQN4d82SwWHUdMdYG2EJ-S9-I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TOOx7dg39qk"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-05T17:16:53.000Z",
+    "channelId": "UCCbueC_g0EXjQ69j8Y70iMQ",
+    "title": "IRWCS 2018 German Garrison",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TOOx7dg39qk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TOOx7dg39qk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TOOx7dg39qk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ingo Haschler",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cp1dy_M9dhrrvo29Yhefm7LCEow\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VHd2wAl1jNM"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-23T09:34:19.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Emerald City Ballroom - July 13, 2018",
+    "description": "Emerald City Ballroom First Friday of the Month WCS Dance #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VHd2wAl1jNM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VHd2wAl1jNM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VHd2wAl1jNM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QwzGa3GSmBRtsB8iby166S74Bqs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vb_q7AJ56-M"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T17:34:46.000Z",
+    "channelId": "UCK68TOKYLzl2Cec8C4GYEgw",
+    "title": "West Coast Swing International Rally Flashmob 2018 in Krasnoyarsk",
+    "description": "IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vb_q7AJ56-M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vb_q7AJ56-M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vb_q7AJ56-M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "By Belov Vlad",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Q7mbW3TAhDsDPJKe68V8TLWr4G8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "K_BELhq1H_U"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-06T19:41:32.000Z",
+    "channelId": "UCRbnl2pr1eejAIW2C1GydYA",
+    "title": "International Rally West Coast Swing 2018 in Regensburg - IRWCS2018",
+    "description": "Die diesjährige IRWCS-Choreo - von uns am 1. September 2018 an vier Locations in Regensburg getanzt.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K_BELhq1H_U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K_BELhq1H_U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K_BELhq1H_U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "West Coast Swing Regensburg",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CiOvxtJfHsTB77axuH_3dLNR3Co\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hKREc-tl8RA"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-06T13:45:35.000Z",
+    "channelId": "UCNZ3q2Eml4Zlr-odyZumAKg",
+    "title": "WCS Rally Raid Budapest 2018",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hKREc-tl8RA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hKREc-tl8RA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hKREc-tl8RA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Attila Antal",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8e5K0kTYBdoTGkTXC2PzAESs_To\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IXIJi7nhuO8"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-23T09:08:19.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Swungover Saturday - July 7, 2017",
+    "description": "First practice performance at Swungover Saturday. A small group of gutsy dancers! #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IXIJi7nhuO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IXIJi7nhuO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IXIJi7nhuO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WWKw7ubqIcVhR5SpTlz5pj90WE4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OfLiaj6jMNM"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-05T14:41:50.000Z",
+    "channelId": "UCuBIVYEE6ruL0qVJtYHbysA",
+    "title": "#IRWCSSCHALKENMEHREN",
+    "description": "IRWCS #IRWCSSchalkenmehren International Rally West Coast Swing 2018 Tanzschule Vulkaneifel zu Gast in der Sternwarte in Schalkenmehren.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OfLiaj6jMNM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OfLiaj6jMNM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OfLiaj6jMNM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Manuela Schmitt Tanzschule Vulkaneifel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QTcsL65PxYM5pOxZ8tnnDkb5-eo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Br7ctAaHml4"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T18:51:21.000Z",
+    "channelId": "UC95BFzUdR0q3imNtrr2qshA",
+    "title": "International Rally West Coast Swing 2018 - Kaiserslautern #IRWCSKaiserslautern",
+    "description": "International Rally West Coast Swing 2018 - Kaiserslautern #IRWCS #IRWCS2018 #IRWCSKaiserslautern #UniswingKaiserslautern #UnitanzKaiserslautern.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Br7ctAaHml4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Br7ctAaHml4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Br7ctAaHml4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Unitanz Kaiserslautern",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/34faEf3qRVorRJSpnEQ16ji83aI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sGcMGN5sH6M"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T04:40:44.000Z",
+    "channelId": "UCfSwSy_vZIBgSfW6XMuuRew",
+    "title": "Internacional Rally West Coast Swing 2018 - Ribeirão Preto - São Paulo - Brazil",
+    "description": "Internacional Rally West Coast Swing 2018 - Ribeirão Preto - São Paulo - Brazil. #IRWCS #IRWCSRIBEIRAOPRETO #WCS #WESTCOASTSWING ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sGcMGN5sH6M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sGcMGN5sH6M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sGcMGN5sH6M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "G. William Romão",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0KmFY8HfeokY8Co5vBBKGP1ViU4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FxnsigoIDnw"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T06:25:43.000Z",
+    "channelId": "UCNcwUZZpQIYYv53fmn6M11A",
+    "title": "International Rally West Coast Swing - Flashmob 2018 - Jerusalem",
+    "description": "International Rally West Coast Swing - Flashmob 2018 - Jerusalem ------------------------- #IRWCSJERUSALEM #IRWCS #IRWCS2018 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FxnsigoIDnw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FxnsigoIDnw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FxnsigoIDnw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Greendrop Greendrop",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hGxmOT393pZIhyhfGgeZLgFulRw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NREuQnyqK80"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T05:37:49.000Z",
+    "channelId": "UC6tdpi768ch5MyB3zEi22Rg",
+    "title": "LIVE STREAM: Camp Hollywood 2018 - Shag Final",
+    "description": "Competition starts at 6:08. Taken at Camp Hollywood and the National Jitterbug Championships over Labor Day Weekend. Visit www.camphollywood.net for ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NREuQnyqK80/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NREuQnyqK80/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NREuQnyqK80/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "camphollywood",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zlzdF-w9Ozj9VoKo-BsQ2Pk6SoU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wk6pW3-CGcI"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-01T17:08:36.000Z",
+    "channelId": "UC3hLdynu5cwMnfYQHUYzNkw",
+    "title": "International Rally West Coast Swing 2018 - Flashmob. Russia, Samara WCS Team.",
+    "description": "International Rally West Coast Swing 2018 - Flashmob. Russia, Samara WCS Team. #IRWCS #IRWCS2018 #IRWCSSAMARA #westcoastswinginsamara ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wk6pW3-CGcI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wk6pW3-CGcI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wk6pW3-CGcI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Svetlana Yakovleva",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zMC7PWyGabPYiZsWwYYW0O7qkjc\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC1wenCNzlYKNVvcsdViWtUQ"
+   },
+   "snippet": {
+    "publishedAt": "2016-09-10T22:48:35.000Z",
+    "channelId": "UC1wenCNzlYKNVvcsdViWtUQ",
+    "title": "West Coast Swing Oahu",
+    "description": "West Coast Swing dancing, classes, workshops, socials, events on the island of Oahu, Hawaii.",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-W_V3DXbBRE0/AAAAAAAAAAI/AAAAAAAAAAA/GjNKQheT-W4/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-W_V3DXbBRE0/AAAAAAAAAAI/AAAAAAAAAAA/GjNKQheT-W4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-W_V3DXbBRE0/AAAAAAAAAAI/AAAAAAAAAAA/GjNKQheT-W4/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "West Coast Swing Oahu",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QB7EykJ5qnzmUXXKPDSFtc-CZSM\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCaXk9RMzMe95VIFDajhbVZQ"
+   },
+   "snippet": {
+    "publishedAt": "2011-09-29T13:08:43.000Z",
+    "channelId": "UCaXk9RMzMe95VIFDajhbVZQ",
+    "title": "francisco javier vidal lede",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-uisnUPqWF28/AAAAAAAAAAI/AAAAAAAAAAA/nD3mYUh0xrA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-uisnUPqWF28/AAAAAAAAAAI/AAAAAAAAAAA/nD3mYUh0xrA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-uisnUPqWF28/AAAAAAAAAAI/AAAAAAAAAAA/nD3mYUh0xrA/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "francisco javier vidal lede",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ilceyxpFbCDrXaPaBlsdL41rt1c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "usgETfn6ChQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T08:12:37.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Dublin Market - September 1, 2018",
+    "description": "Performance Saturday morning at the Dublin Market. #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/usgETfn6ChQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/usgETfn6ChQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/usgETfn6ChQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hxiHB2uNfBtnw-ICNCIk_haAe7g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LGyoBBVplNo"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T01:18:53.000Z",
+    "channelId": "UClD_u2TKaY3Xira283SxAwA",
+    "title": "International Rally WCS 2018 Brisbane Australia",
+    "description": "www.rawconnection.com.au.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LGyoBBVplNo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LGyoBBVplNo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LGyoBBVplNo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "RawConnectionWCS",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/c-CSY8o0f75ArsFzPp-7LmPiguw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "K7UX1wgQp50"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T06:33:47.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Emerald City Ballroom - August 31, 2018",
+    "description": "This is our first official performance for Flashmob Weekend. #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K7UX1wgQp50/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K7UX1wgQp50/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K7UX1wgQp50/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JJj9kt_xAIlpxf20WnGfNvztFYQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "n-7G4QtOkQg"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T12:42:10.000Z",
+    "channelId": "UCCr9ZpOiXUFLEsWV9YyRGyw",
+    "title": "INTERNATIONAL RALLY WEST COAST SWING 2018 - CROATIA ZTH",
+    "description": "IFWCS International Rally West Coast Swing - flashmob - performed in Dramalj, Croatia during Zouktime Holiday 2018. Song: \"Off to see the world\" by Lukas ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Emeline Rochefeuille",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Tz43FLIPRl328zEdwQB6Y7OYz7g\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLiEVSToi09euUcjsROESGLaJWc6PcnJMo"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-04T13:03:35.000Z",
+    "channelId": "UCnyCxzpLI3MQHaGrmbQzfWQ",
+    "title": "International Rally West Coast Swing 2018",
+    "description": "IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n-7G4QtOkQg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "froggie451",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/X3DdgSCbJkUFGgiH_UpIBDMzc_o\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lTLkNkzSGo4"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-03T09:20:10.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "The Orange Grove - September 1, 2018",
+    "description": "Performance Saturday morning. The Orange Grove at the Field of Corn. #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lTLkNkzSGo4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lTLkNkzSGo4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lTLkNkzSGo4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HsD7oc6Tlat1_r5Q0c8ED43hmR4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KZpIpbuV0HY"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-05T20:08:46.000Z",
+    "channelId": "UCArI6-sucpJvur0soNWOsOQ",
+    "title": "International Rally 2018, West Coast Swing Dance Flash Mob, Tampere, Finland",
+    "description": "IRWCS #IRWCSTampere #IRWCSFinland International Rally 2018, West Coast Swing Dance Flash Mob, Tampere, Finland. Video: Olli Rasi.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KZpIpbuV0HY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KZpIpbuV0HY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KZpIpbuV0HY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tero Hietaranta",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Fx_uXKdKT2sO8uKBoU_Katyqss8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ek5cGx5sjqw"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-23T09:37:43.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Buckeye Bop Club (Camera #1) - July 17, 2018",
+    "description": "Buckeye Bob Club @ Emerald City Ballroom #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ek5cGx5sjqw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ek5cGx5sjqw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ek5cGx5sjqw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/F5xL3S4esOEjauyFKYFQ5VkKvZY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "fbEw1izfsyE"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T17:52:03.000Z",
+    "channelId": "UCNh5gLgIMC_HsSD-9NvM2rg",
+    "title": "Hämeenlinna, International Rally West Coast Swing Flashmob 2018",
+    "description": "IRWCS 2018 #IRWCSHÄMEENLINNA Video:Jan Stårgard.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fbEw1izfsyE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fbEw1izfsyE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fbEw1izfsyE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanna Tuominen",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ovKzCT_rw44bO969HNWbg2JpP10\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5Wj2FvIW-Jc"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-23T09:53:51.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Jammin In July - July 20, 2018",
+    "description": "Jammin in July - the best yet! #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5Wj2FvIW-Jc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5Wj2FvIW-Jc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5Wj2FvIW-Jc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ky3dQEUh_dwoBdJ_Fw8KRte_7yM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WVGS7PzF__k"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-23T09:44:44.000Z",
+    "channelId": "UCHTmCFRjevrb0v59lmDh0AA",
+    "title": "Buckeye Bop Club (Camera #2) - July 17, 2018",
+    "description": "Buckeye Bop Club @ Emerald City Ballroom #IRWCS.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WVGS7PzF__k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WVGS7PzF__k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WVGS7PzF__k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Columbus International Flashmob West Coast Swing",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
